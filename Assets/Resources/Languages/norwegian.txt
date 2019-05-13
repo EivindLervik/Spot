@@ -1,0 +1,10 @@
+﻿-- General Names --
+general_title <SPACE> Spot
+general_powered <SPACE> Levert av AltReal
+
+-- Main Menu --
+mainMenu_touch <SPACE> Trykk på skjermen for å fortsette
+mainMenu_welcome <SPACE> Velkommen til Spot!
+mainMenu_login <SPACE> Logg inn
+mainMenu_options <SPACE> Alternativer
+mainMenu_about <SPACE> Om

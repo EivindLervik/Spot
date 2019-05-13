@@ -1,0 +1,20 @@
+﻿-- General Names --
+general_title <SPACE> Spot
+general_powered <SPACE> Powered by AltReal
+general_back <SPACE> Back
+general_ok <SPACE> OK
+general_cancel <SPACE> Cancel
+
+-- Main Menu --
+mainMenu_login <SPACE> Log In
+mainMenu_register <SPACE> Register
+mainMenu_username <SPACE> Username
+mainMenu_password <SPACE> Password
+mainMenu_options <SPACE> Options
+mainMenu_about <SPACE> About
+mainMenu_language <SPACE> Language
+
+-- Language --
+language_english <SPACE> English
+language_japanese <SPACE> 日本語
+language_norwegian <SPACE> Norsk

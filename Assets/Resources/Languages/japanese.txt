@@ -1,0 +1,10 @@
+﻿-- General Names --
+general_title <SPACE> これ！
+general_powered <SPACE> は！
+
+-- Main Menu --
+mainMenu_touch <SPACE> 日！
+mainMenu_welcome <SPACE> 本！
+mainMenu_login <SPACE> 語！
+mainMenu_options <SPACE> です！
+mainMenu_about <SPACE> ！
